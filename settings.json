@@ -10,7 +10,7 @@
         "Moobot",
         "Marbiebot"
     ],
-    "AllowedUsers": [beardville],
+    "AllowedUsers": ["beardville"],
     "Cooldown": 30,
     "KeyLength": 2,
     "MaxSentenceWordAmount": 25,

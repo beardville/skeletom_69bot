@@ -34,7 +34,7 @@ class Settings:
         "Host": "irc.chat.twitch.tv",
         "Port": 6667,
         "Channel": "#<name>",
-        "Nickname": "<nickname",
+        "Nickname": "<nickname>",
         "Authentication": "oauth:<code>",
         "DeniedUsers": ["StreamElements", "Nightbot", "Moobot", "Marbiebot"],
         "AllowedUsers": [beardville, tsholden, jasonblo],

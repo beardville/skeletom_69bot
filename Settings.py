@@ -33,8 +33,8 @@ class Settings:
     DEFAULTS: SettingsData = {
         "Host": "irc.chat.twitch.tv",
         "Port": 6667,
-        "Channel": "#<name>",
-        "Nickname": "name>",
+        "Channel": "#<channel>",
+        "Nickname": "<name>",
         "Authentication": "oauth:<code>",
         "DeniedUsers": ["StreamElements", "Nightbot", "Moobot", "Marbiebot"],
         "AllowedUsers": [beardville, tsholden, jasonblo],

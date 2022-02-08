@@ -35,7 +35,7 @@ class Settings:
         "Port": 6667,
         "Channel": "#beardville",
         "Nickname": "skeletom_69",
-        "Authentication": "oauth:<auth>",
+        "Authentication": "oauth:kuwetg79g92gtadlfj8td5wwna1ph5",
         "DeniedUsers": ["StreamElements", "Nightbot", "Moobot", "Marbiebot"],
         "AllowedUsers": [beardville, tsholden, jasonblo],
         "Cooldown": 20,

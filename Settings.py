@@ -37,7 +37,7 @@ class Settings:
         "Nickname": "<name>",
         "Authentication": "oauth:<code>",
         "DeniedUsers": ["StreamElements", "Nightbot", "Moobot", "Marbiebot"],
-        "AllowedUsers": [beardville, tsholden, jasonblo],
+        "AllowedUsers": ["beardville", "tsholden", "jasonblo"],
         "Cooldown": 20,
         "KeyLength": 2,
         "MaxSentenceWordAmount": 35,

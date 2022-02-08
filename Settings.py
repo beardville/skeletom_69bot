@@ -33,9 +33,9 @@ class Settings:
     DEFAULTS: SettingsData = {
         "Host": "irc.chat.twitch.tv",
         "Port": 6667,
-        "Channel": "#beardville",
-        "Nickname": "skeletom_69",
-        "Authentication": "oauth:kuwetg79g92gtadlfj8td5wwna1ph5",
+        "Channel": "#<name>",
+        "Nickname": "<nickname",
+        "Authentication": "oauth:<code>",
         "DeniedUsers": ["StreamElements", "Nightbot", "Moobot", "Marbiebot"],
         "AllowedUsers": [beardville, tsholden, jasonblo],
         "Cooldown": 20,

@@ -19,7 +19,7 @@
     "AutomaticGenerationTimer": 300,
     "WhisperCooldown": true,
     "EnableGenerateCommand": true,
-    "SentenceSeparator": " . ",
+    "SentenceSeparator": ". ",
     "AllowGenerateParams": true,
     "GenerateCommands": [
         "!generate",

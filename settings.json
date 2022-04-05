@@ -3,7 +3,7 @@
     "Port": 6667,
     "Channel": "#beardville",
     "Nickname": "skeletom_69",
-    "Authentication": "oauth:ulihnchep8x7r0krvl138zz6to8jr1",
+    "Authentication": "oauth:bvvwtq0pm2n8ylinqty3p8iwsaf9n1",
     "DeniedUsers": [
         "StreamElements",
         "Nightbot",
@@ -16,7 +16,7 @@
     "MaxSentenceWordAmount": 35,
     "MinSentenceWordAmount": 5,
     "HelpMessageTimer": -1,
-    "AutomaticGenerationTimer": 300,
+    "AutomaticGenerationTimer": 450,
     "WhisperCooldown": true,
     "EnableGenerateCommand": true,
     "SentenceSeparator": ". ",

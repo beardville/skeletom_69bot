@@ -16,7 +16,7 @@
     "MaxSentenceWordAmount": 35,
     "MinSentenceWordAmount": 5,
     "HelpMessageTimer": -1,
-    "AutomaticGenerationTimer": 450,
+    "AutomaticGenerationTimer": 300,
     "WhisperCooldown": true,
     "EnableGenerateCommand": true,
     "SentenceSeparator": ". ",

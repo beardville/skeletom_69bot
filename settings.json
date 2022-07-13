@@ -2,7 +2,7 @@
     "Host": "irc.chat.twitch.tv",
     "Port": 6667,
     "Channel": "#beardville",
-    "Nickname": "skeletom_69",
+    "Nickname": "skeletom_bot",
     "Authentication": "oauth:dyxuazq5xnyps44xlg99nhlftq5ze6",
     "DeniedUsers": [
         "StreamElements",

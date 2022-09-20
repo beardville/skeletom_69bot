@@ -3,7 +3,7 @@
     "Port": 6667,
     "Channel": "#beardville",
     "Nickname": "skeletom_bot",
-    "Authentication": "oauth:q8qda63i7vh9ly3jo7ieagbjj77ljy",
+    "Authentication": "oauth:i5oom24f7x7xhnt4wwgf3rit0vgtnt",
     "DeniedUsers": [
         "StreamElements",
         "Nightbot",
